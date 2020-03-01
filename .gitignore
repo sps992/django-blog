@@ -2,3 +2,4 @@
 *.pyc
 .theia
 __pycache__/
+env.py
